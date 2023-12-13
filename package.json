@@ -1,0 +1,14 @@
+{
+  "name": "f--kin-video-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renorari",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  }
+}
